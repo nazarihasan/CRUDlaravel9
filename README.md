@@ -26,7 +26,8 @@ Proyek CRUD Laravel 9 dengan PHP 8.
 
 - Install all dependencies using Composer:
 ```bash
-  "composer update" atau "composer install"
+  "composer update" atau 
+  "composer install"
 ```
 
 - Edit file
